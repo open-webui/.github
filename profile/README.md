@@ -1,2 +1,2 @@
-# Building the best open-source AI user interface.
-<sup><sub>Created by [Tim J. Baek](https://github.com/tjbck)</sub></sup>
+# Building the best AI user interface.
+Created by [Tim J. Baek](https://github.com/tjbck)
